@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"fi.tuni.tamk.tiko.hyvarinenseppo.util","l":"Arrays"},{"p":"fi.tuni.tamk.tiko.hyvarinenseppo","l":"Lotto"},{"p":"fi.tuni.tamk.tiko.hyvarinenseppo.util","l":"Math"},{"p":"fi.tuni.tamk.tiko.hyvarinenseppo.util","l":"MyConsole"}]
