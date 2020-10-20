@@ -6,7 +6,7 @@ Hi all! I am Seppo Hyvärinen, a 31 year old beginner programmer student and cod
 I also made documentation for each class and method to show what are the classes and methods meant to do.
 
 Here's a screenshot of the app in action displaying basic functionality and how the program handles input errors.
-![Demo pic](https://github.com/seppohyvarinen/LottoGame/blob/main/img/demo1.jpg)
+![Demo pic](img/demo1.jpg)
 
 I had a lot of fun making this project, I hope you enjoy using it. For this application I created a variety of different classes and methods which are built so that they are (hopefully) useful outside this app as well. A lot of the methods are written without using the most advanced techniques (because I am a beginner programmer) to demonstrate my skills in creating methods with more basic Java language.
 
